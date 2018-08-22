@@ -1,3 +1,5 @@
+# This repository has been archived. 
+
 # <a name="title"></a> chef-rvm [![Build Status](https://secure.travis-ci.org/fnichol/chef-rvm.png?branch=master)](http://travis-ci.org/fnichol/chef-rvm)
 
 ## <a name="description"></a> Description
